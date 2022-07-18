@@ -10,4 +10,16 @@ see in EDA on PoerCo data.
 
 #### Task 2: EDA is performed on the data given by PowerCo
 Key insights drawn from the dataset
-1. 
+1. Approximately 10% of customers have churned
+2. sumption data is highly skewed and must be treated before modelling
+3. there are outliers present in the data and these must be treated before modelling
+4. Price sensitivity has a low correlation with churn
+5. Feature engineering will be vital, especially if we are to increase the predictive power of price
+sensitivity.
+
+#### Task 3: Feature Engineering and modelling
+1. Derived the features and created various other new features over monthly and yearly price effect basis.
+2. most of the work was to create new features and for scaling & removing outliers from the dataset.
+3. did PCA to visualza the data & for improving the accuracy score as well.
+4. from PCA model selection was carried out.
+5. tried with KNN, LogisticRegression, and finally landed with RandomForest coz, data was imbalanced and not scaled as well.
