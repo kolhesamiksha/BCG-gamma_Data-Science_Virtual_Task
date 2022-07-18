@@ -23,3 +23,6 @@ sensitivity.
 3. did PCA to visualza the data & for improving the accuracy score as well.
 4. from PCA model selection was carried out.
 5. tried with KNN, LogisticRegression, and finally landed with RandomForest coz, data was imbalanced and not scaled as well.
+
+####  Task 4: Findings and Recommendation
+1. You can see the findings on findings & recommendation ppt
