@@ -26,3 +26,9 @@ sensitivity.
 
 ####  Task 4: Findings and Recommendation
 1. You can see the findings on findings & recommendation ppt
+
+
+### Tools Used
+1. AWS Sagemaker Studio.
+2. Python.
+3. Google Colab
