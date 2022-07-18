@@ -29,10 +29,11 @@ sensitivity.
 
 
 ### Tools Used
-1. AWS Sagemaker Studio- EDA & Model Building
-2. Python.
-3. Google Colab.
-4. google sheets - Presentation.
+1. AWS Sagemaker Studio- EDA & Model Building.
+2. AWS S3.
+3. Python.
+4. Google Colab.
+5. google sheets - Presentation.
 
 ### Libraries Used:
 1. Numpy
@@ -42,3 +43,4 @@ sensitivity.
 5. Sagemaker-pca
 6. Matplotlib.
 7. Seaborn.
+
