@@ -28,14 +28,14 @@ sensitivity.
 1. You can see the findings on findings & recommendation ppt
 
 
-### Tools Used
+## Tools Used
 1. AWS Sagemaker Studio- EDA & Model Building.
 2. AWS S3.
 3. Python.
 4. Google Colab.
 5. google sheets - Presentation.
 
-### Libraries Used:
+## Libraries Used:
 1. Numpy
 2. Pandas
 3. Scikit-learn
@@ -43,4 +43,3 @@ sensitivity.
 5. Sagemaker-pca
 6. Matplotlib.
 7. Seaborn.
-
