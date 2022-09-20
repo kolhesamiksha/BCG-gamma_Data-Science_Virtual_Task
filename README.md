@@ -1,5 +1,8 @@
 # BCG-gamma_Data-Science_Virtual_Task
 
+![super-necessary](https://user-images.githubusercontent.com/73512374/191226088-daeca962-8143-4e14-846f-d534608cc172.png)
+
+
 Task Description:
 #### Task 1: To test the specific hypothesis by knowing the client & their problems.
 1. Analysed the problem statement defined by the client i.e. power & electricity provider company.
