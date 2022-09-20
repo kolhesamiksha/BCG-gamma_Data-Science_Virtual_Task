@@ -1,6 +1,7 @@
 # BCG-gamma_Data-Science_Virtual_Task
 
-![super-necessary](https://user-images.githubusercontent.com/73512374/191226266-cd4d945d-e2aa-4999-b64f-88d153a7d2a6.png)
+![super-necessary](https://user-images.githubusercontent.com/73512374/191226433-6b4b91b9-9106-4575-9f45-780eff4eccdc.png)
+
 
 
 
