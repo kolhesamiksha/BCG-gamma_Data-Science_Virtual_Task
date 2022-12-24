@@ -18,7 +18,6 @@ Key insights drawn from the dataset
 1. Approximately 10% of customers have churned
 2. sumption data is highly skewed and must be treated before modelling
 3. there are outliers present in the data and these must be treated before modelling
-4. Price sensitivity has a low correlation with churn
 5. Feature engineering will be vital, especially if we are to increase the predictive power of price
 sensitivity.
 
