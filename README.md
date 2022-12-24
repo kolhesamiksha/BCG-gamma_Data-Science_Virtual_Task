@@ -48,4 +48,4 @@ sensitivity.
 6. Matplotlib.
 7. Seaborn.
 
-Aim: Achieved a data scientist experience throughout the tasks and got to know how to built and work over the hypothesis. 
+Aim: Achieved a data scientist experience throughout the tasks and got to know how to solve and come up with the solution for any buisness 
